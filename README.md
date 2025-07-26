@@ -28,7 +28,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,postman,nodejs,express,react,mongodb,tailwindcss,bootstrap,cpp,python,c,java&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,postman,nodejs,express,react,mongodb,tailwindcss,bootstrap,cpp,python,c&perline=4)](https://skillicons.dev)
 
 ![Amit-coding-world GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-coding-world&show_icons=true&theme=dark)
 
